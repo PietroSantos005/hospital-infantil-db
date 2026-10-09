@@ -1,0 +1,15 @@
+{
+  "tables": 12,
+  "columns": 102,
+  "primary_keys": 12,
+  "foreign_keys": 12,
+  "not_null_columns": 62,
+  "unique_constraints": 3,
+  "explicit_unique_indexes": 2,
+  "check_constraints": 4,
+  "max_identifier_bytes": 30,
+  "errors": [],
+  "execution_in_oracle": "not_performed",
+  "review_date": "2026-10-09",
+  "ddl_sha256": "d3600d51e8438feb64df3a8e18748121483973bc4c245495e2b79c4bdf09af22"
+}
